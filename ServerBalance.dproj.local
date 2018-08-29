@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/06 16:34:09.000.813,=C:\Users\Dev107\Desktop\ServerBalance\FormUnit1.pas</Transaction>
+    <Transaction>2017/10/06 16:34:10.000.445,=C:\Users\Dev107\Desktop\ServerBalance\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2017/10/06 16:34:10.000.001,=C:\Users\Dev107\Desktop\ServerBalance\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2017/10/06 16:34:12.000.927,=C:\Users\Dev107\Desktop\ServerBalance\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2017/10/06 16:34:12.000.890,=C:\Users\Dev107\Desktop\ServerBalance\js\base64.js</Transaction>
+    <Transaction>2017/10/06 16:34:12.000.348,=C:\Users\Dev107\Desktop\ServerBalance\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/10/06 16:34:12.000.957,=C:\Users\Dev107\Desktop\ServerBalance\js\json2.js</Transaction>
+    <Transaction>2017/10/06 16:34:13.000.077,=C:\Users\Dev107\Desktop\ServerBalance\js\base64-min.js</Transaction>
+    <Transaction>2017/10/06 16:34:13.000.182,=C:\Users\Dev107\Desktop\ServerBalance\js\callbackframework-min.js</Transaction>
+    <Transaction>2017/10/06 16:34:13.000.143,=C:\Users\Dev107\Desktop\ServerBalance\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2017/10/06 16:34:13.000.011,=C:\Users\Dev107\Desktop\ServerBalance\js\callbackframework.js</Transaction>
+    <Transaction>2017/10/06 16:34:13.000.057,=C:\Users\Dev107\Desktop\ServerBalance\js\serverfunctions.js</Transaction>
+    <Transaction>2017/10/06 16:34:13.000.114,=C:\Users\Dev107\Desktop\ServerBalance\js\json2-min.js</Transaction>
+    <Transaction>2017/10/06 16:34:26.000.548,C:\Users\Dev107\Desktop\ServerBalance\Servidor.pas=C:\Users\Dev107\Desktop\ServerBalance\FormUnit1.pas</Transaction>
+    <Transaction>2017/10/06 16:34:26.000.548,C:\Users\Dev107\Desktop\ServerBalance\Servidor.dfm=C:\Users\Dev107\Desktop\ServerBalance\FormUnit1.dfm</Transaction>
+    <Transaction>2017/10/06 16:34:51.000.985,C:\Users\Dev107\Desktop\ServerBalance\SMU.pas=C:\Users\Dev107\Desktop\ServerBalance\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2017/10/06 16:34:51.000.985,C:\Users\Dev107\Desktop\ServerBalance\SMU.dfm=C:\Users\Dev107\Desktop\ServerBalance\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2017/10/06 16:39:18.000.657,=C:\Users\Dev107\Desktop\ServerBalance\Unit1.pas</Transaction>
+    <Transaction>2017/10/06 16:39:37.000.787,C:\Users\Dev107\Desktop\ServerBalance\peso.pas=C:\Users\Dev107\Desktop\ServerBalance\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
